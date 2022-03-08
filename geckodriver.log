@@ -1,0 +1,21 @@
+1646303402873	geckodriver	INFO	Listening on 127.0.0.1:64673
+1646303405910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64674" "-no-remote" "-profile" "C:\\Users\\degahlot\\AppData\\Local\\Temp\\rust_mozprofile4RbiUd"
+1646303406580	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\degahlot\\AppData\\Local\\Temp\\rust_mozprofile4RbiUd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64674/devtools/browser/396e8a02-2f47-42f1-bf79-bf890d6b57f6
+1646303408861	Marionette	INFO	Listening on port 64679
+1646303409110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646303454354	Marionette	INFO	Stopped listening on port 64679
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646306157084	geckodriver	INFO	Listening on 127.0.0.1:53643
+1646306159878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53644" "-no-remote" "-profile" "C:\\Users\\degahlot\\AppData\\Local\\Temp\\rust_mozprofile9tbEOF"
+1646306160442	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\degahlot\\AppData\\Local\\Temp\\rust_mozprofile9tbEOF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53644/devtools/browser/92bc3588-e0f8-4af5-aa4d-528e7b8aa9ae
+1646306162726	Marionette	INFO	Listening on port 53652
+1646306163065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646306723676	Marionette	INFO	Stopped listening on port 53652
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
